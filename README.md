@@ -58,7 +58,6 @@ python reactor_analysis.py
 ```
 reactor_analysis.py   — 主程序（所有函数 + 菜单）
 reactor_analysis.png  — 可视化输出图片
-zuoye-2.pdf           — 作业原题
 ```
 
 ## 函数清单
