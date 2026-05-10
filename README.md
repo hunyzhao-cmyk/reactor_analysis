@@ -24,7 +24,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/hunyzhao-cmyk/-.git
+git clone https://github.com/hunyzhao-cmyk/reactor_analysis.git
 cd reactor-analysis
 
 # 安装依赖
